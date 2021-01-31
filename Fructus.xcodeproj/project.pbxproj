@@ -16,6 +16,7 @@
 		F1A3634B25C6040700A98EE7 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A3634A25C6040700A98EE7 /* OnboardingView.swift */; };
 		F1A3634F25C62F4600A98EE7 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A3634E25C62F4600A98EE7 /* FruitModel.swift */; };
 		F1A3635425C630D200A98EE7 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A3635325C630D200A98EE7 /* FruitData.swift */; };
+		F1EE5ECD25C7715C001F29A2 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1EE5ECC25C7715C001F29A2 /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		F1A3634A25C6040700A98EE7 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		F1A3634E25C62F4600A98EE7 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		F1A3635325C630D200A98EE7 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		F1EE5ECC25C7715C001F29A2 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				F1A3634325C5F9B500A98EE7 /* FruitCardView.swift */,
 				F1A3634725C5FF7000A98EE7 /* StartButtonView.swift */,
+				F1EE5ECC25C7715C001F29A2 /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				F1A3635425C630D200A98EE7 /* FruitData.swift in Sources */,
 				F1A3634425C5F9B500A98EE7 /* FruitCardView.swift in Sources */,
+				F1EE5ECD25C7715C001F29A2 /* FruitRowView.swift in Sources */,
 				F1A3634825C5FF7000A98EE7 /* StartButtonView.swift in Sources */,
 				F1A3633225C5F24E00A98EE7 /* ContentView.swift in Sources */,
 				F1A3634B25C6040700A98EE7 /* OnboardingView.swift in Sources */,
